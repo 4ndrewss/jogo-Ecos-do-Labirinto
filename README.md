@@ -53,13 +53,13 @@ O jogador percorre **três fases de labirinto**, enfrentando guardiões que test
 
 ## 🖼️ Screenshots  
 
-![Mapa do Labirinto](https://imgur.com/a/lSIGuM1)  
+ <img width="940" height="537" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e1e9e933-7bd9-4d55-94d1-7a81cee5913e" />
 *Mapa de uma das fases do labirinto.*  
 
-![Tela de Acerto](https://imgur.com/a/EoSNTNK)  
+<img width="951" height="543" alt="Screenshot_5" src="https://github.com/user-attachments/assets/4831fde4-0f55-4a24-a9ef-4c2133d10cdb" />
 *Exemplo de tela de resposta correta.*  
 
-![Tela de Erro](https://imgur.com/a/HCneJPz)  
+<img width="944" height="538" alt="Screenshot_2" src="https://github.com/user-attachments/assets/dc07abcc-9987-45fa-965a-1c035be0cd05" /> 
 *Exemplo de tela de resposta incorreta.*  
 
 *(Substitua os caminhos pelas imagens reais do projeto.)*  
