@@ -61,9 +61,6 @@ O jogador percorre **três fases de labirinto**, enfrentando guardiões que test
 
 <img width="944" height="538" alt="Screenshot_2" src="https://github.com/user-attachments/assets/dc07abcc-9987-45fa-965a-1c035be0cd05" /> 
 *Exemplo de tela de resposta incorreta.*  
-
-*(Substitua os caminhos pelas imagens reais do projeto.)*  
-
 ---
 ## 🚀 Como Executar o Projeto
 
