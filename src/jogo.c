@@ -238,8 +238,6 @@ void rodarJogo() {
         if (keyhit()) {
             ch = readch();
             
-            // --- AQUI ESTAVA O ERRO CRÍTICO ---
-            // Você precisa deste IF para separar Movimento de Perguntas
             if (estado == estadoJogando) {
                 int nextX = player.x;
                 int nextY = player.y;
