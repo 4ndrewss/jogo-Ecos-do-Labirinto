@@ -1,4 +1,17 @@
-Código em Markdown:
+# Ecos do Labirinto (Fork)
+
+> ⚠️ **Nota de Portfólio:** Este projeto foi desenvolvido em grupo durante o 2º período de ADS na CESAR School.
+> O repositório original pertence a [Arthur Ferreira](https://github.com/ArchangelLoer). 
+
+## 👨‍💻 Minha Contribuição
+Neste projeto, atuei na definição técnica e no design narrativo, sendo responsável por:
+
+- **Pesquisa e Infraestrutura:** Seleção e implementação da biblioteca **cli-lib** para viabilizar a interface gráfica e a renderização do labirinto em C.
+- **Gestão de Requisitos:** Responsável pela validação e documentação de todas as entregas acadêmicas, garantindo a conformidade com o escopo do projeto.
+- **Narrative Design:** Concepção da *lore* (história de fundo) e narrativa do jogo, adicionando profundidade à experiência do usuário.
+
+---
+
 # 🎮 Ecos do Labirinto  
 
 Este repositório contém o projeto desenvolvido para as disciplinas **Programação Imperativa e Funcional (2025.2)** e **Lógica para Computação (2025.2)** da **CESAR School**.  
